@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f8e01ee9cf18d36279881043864c5c32",
+    "revision": "b928f0657fcec33ed74c72b5c8ef471a",
     "url": "/index.html"
   },
   {
-    "revision": "a5413a5d614346a25b4a",
+    "revision": "b26d49f3385f9fcc7431",
     "url": "/static/css/main.f5497eb8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.faf71b50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a5413a5d614346a25b4a",
-    "url": "/static/js/main.5bf60503.chunk.js"
+    "revision": "b26d49f3385f9fcc7431",
+    "url": "/static/js/main.29ef2b19.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Byjus-icon_big.69af6dc4.png"
   },
   {
-    "revision": "30e685e2982413651adb0da79786163e",
-    "url": "/static/media/Updated_resume.30e685e2.pdf"
+    "revision": "524b1f7ae926a3da46fb99b0111b23ea",
+    "url": "/static/media/Updated_resume.524b1f7a.pdf"
   },
   {
     "revision": "9b41899e05a4b700ca83679abfa4398e",
     "url": "/static/media/badge_apache_re.9b41899e.png"
+  },
+  {
+    "revision": "c2b4f16ed2b342b9c911aee60a217398",
+    "url": "/static/media/gci_edited.c2b4f16e.png"
   },
   {
     "revision": "32f6b574eb11519020e24620a38bdf55",
