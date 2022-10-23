@@ -1,27 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f6e4c1a39e6829565a1addb4d21c20c",
+    "revision": "f8e01ee9cf18d36279881043864c5c32",
     "url": "/index.html"
   },
   {
-    "revision": "608f33743f4fde15a2e3",
+    "revision": "a5413a5d614346a25b4a",
     "url": "/static/css/main.f5497eb8.chunk.css"
   },
   {
-    "revision": "f4d09f55157bbdf84f37",
-    "url": "/static/js/2.e1b7dcf8.chunk.js"
+    "revision": "9d2daeac8a3f9cad01cb",
+    "url": "/static/js/2.faf71b50.chunk.js"
   },
   {
     "revision": "29eb69a08ea4198f7b46e1db8a3d5045",
-    "url": "/static/js/2.e1b7dcf8.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.faf71b50.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "608f33743f4fde15a2e3",
-    "url": "/static/js/main.e9f208a0.chunk.js"
+    "revision": "a5413a5d614346a25b4a",
+    "url": "/static/js/main.5bf60503.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
     "url": "/static/js/runtime-main.554504a0.js"
+  },
+  {
+    "revision": "69af6dc41cbc78f8edddfd571249135a",
+    "url": "/static/media/Byjus-icon_big.69af6dc4.png"
   },
   {
     "revision": "30e685e2982413651adb0da79786163e",
